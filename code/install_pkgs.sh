@@ -1,0 +1,13 @@
+pip install importlib-metadata
+pip install albumentations==1.1.0
+pip install numpy==1.24.1
+pip install opencv-python==4.5.4.60
+pip install opencv-python-headless==4.5.4.60
+pip install pillow>=10.2.0
+pip install pydicom==2.3.0
+pip install 'pylibjpeg[all]==2.0.0'
+pip install scikit-learn==1.0.2
+pip install torch==1.13.1
+pip install torchio==0.18.74
+pip install torchvision==0.14.1
+pip install tqdm==4.62.3

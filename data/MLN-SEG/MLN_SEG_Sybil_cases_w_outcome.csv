@@ -1,0 +1,98 @@
+pid,Directory,Modality,Study Date,Contrast/Bolus Agent,Body Part Examined,Slice Thickness,Contrast/Bolus Route,Contrast/Bolus Ingredient,Requested Procedure Description,PrimaryCondition,LungCancer,time
+case_0018,./Mediastinal-Lymph-Node-SEG/case_0018/07-26-2007-NA-NA-30252/6.000000-NA-79022,CT,07-26-2007,VOLUMEN & 100CC/ 2.5CC/SEC,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0023,./Mediastinal-Lymph-Node-SEG/case_0023/08-28-2013-NA-NA-67309/308.000000-NA-99673,CT,08-28-2013,isovue,CHEST,2.5,IV,,,Cholangiocarcinoma,0,0
+case_0033,./Mediastinal-Lymph-Node-SEG/case_0033/10-14-2017-NA-NA-60596/301.000000-NA-09780,CT,10-14-2017,isovue,CHEST,2.5,IV,,,Lung Non-Small,1,0
+case_0050,./Mediastinal-Lymph-Node-SEG/case_0050/02-03-2009-NA-NA-46462/301.000000-NA-01546,CT,02-03-2009,BARIUM & isovue,CHEST,2.5,Oral & IV,,,Head and Neck,0,0
+case_0054,./Mediastinal-Lymph-Node-SEG/case_0054/06-02-2013-NA-NA-68464/23.000000-NA-14567,CT,06-02-2013,READICAT & 90CC/3.5CC/ISO,CHEST,2.5,Oral & IV,,,Thyroid,0,0
+case_0048,./Mediastinal-Lymph-Node-SEG/case_0048/12-03-2015-NA-NA-20124/11.000000-NA-29581,CT,12-03-2015,WATER & ISOVUE 370,CHEST,1.25,Oral & IV,,,Lung Non-Small,1,0
+case_0088,./Mediastinal-Lymph-Node-SEG/case_0088/05-06-2014-NA-NA-88275/201.000000-NA-62107,CT,05-06-2014,Iopamidol (Isovue 370),CHEST,2.5,IV,,,Lung Non-Small,1,0
+case_0089,./Mediastinal-Lymph-Node-SEG/case_0089/08-18-2011-NA-NA-57628/6.000000-NA-17486,CT,08-18-2011,WATER & OMNIPAQUE,CHEST,2.5,Oral & IV,,,Rectal,0,0
+case_0093,./Mediastinal-Lymph-Node-SEG/case_0093/02-18-2009-NA-NA-02765/2.000000-NA-62945,CT,02-18-2009,BARIUM & ISOVUE 370,CHEST,2.5,Oral & IV,,,Renal Cell,0,0
+case_0116,./Mediastinal-Lymph-Node-SEG/case_0116/01-03-2015-NA-NA-16552/21.000000-NA-45858,CT,01-03-2015,SMOOTHIE & ISOVUE,CHEST,2.5,Oral & IV,,,Melanoma,0,0
+case_0129,./Mediastinal-Lymph-Node-SEG/case_0129/02-15-2011-NA-NA-74833/302.000000-NA-94244,CT,02-15-2011,ISOVUE,CHEST,2.5,Oral & IV,,,Breast,0,0
+case_0125,./Mediastinal-Lymph-Node-SEG/case_0125/09-05-2015-NA-NA-79908/6.000000-NA-91722,CT,09-05-2015,VOLUMEN & ISOVUE  370,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0158,./Mediastinal-Lymph-Node-SEG/case_0158/12-15-2015-NA-NA-16660/8.000000-NA-53327,CT,12-15-2015,ISOVUE,CHEST,2,,,,Non-Hodgkin's Lymphoma,0,0
+case_0164,./Mediastinal-Lymph-Node-SEG/case_0164/02-01-2009-NA-NA-72099/6.000000-NA-95294,CT,02-01-2009,VOLUMEN & 90CC/2.5 ISO 37,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0166,./Mediastinal-Lymph-Node-SEG/case_0166/03-29-2017-NA-NA-92973/301.000000-NA-61824,CT,03-29-2017,BARIUM & isovue,CHEST,2.5,Oral & IV,,,Chronic Lymphocytic Leukemia (CLL),0,0
+case_0178,./Mediastinal-Lymph-Node-SEG/case_0178/08-06-2017-NA-NA-08634/9.000000-NA-18670,CT,08-06-2017,ISOVUE,CHEST,2,,,,Chronic Lymphocytic Leukemia (CLL),0,0
+case_0194,./Mediastinal-Lymph-Node-SEG/case_0194/10-16-2010-NA-NA-67941/4.000000-NA-85420,CT,10-16-2010,Omnipaque,CHEST,2,,,,Esophageal Adenocarcinoma,0,0
+case_0193,./Mediastinal-Lymph-Node-SEG/case_0193/10-06-2007-NA-NA-43820/2.000000-NA-84729,CT,10-06-2007,125ML ISOVUE 300,CHEST,2.5,IV,,,Hodgkin`s Lymphoma,0,0
+case_0216,./Mediastinal-Lymph-Node-SEG/case_0216/12-16-2016-NA-NA-05258/2.000000-NA-47761,CT,12-16-2016,READICAT & 90CC/3.0CC/ISO,CHEST,2.5,Oral & IV,,,Lung Small,1,0
+case_0225,./Mediastinal-Lymph-Node-SEG/case_0225/11-23-2010-NA-NA-70693/8.000000-NA-26643,CT,11-23-2010,ISOVUE,CHEST,2,,,,Hodgkin`s Lymphoma,0,0
+case_0247,./Mediastinal-Lymph-Node-SEG/case_0247/05-02-2017-NA-NA-23267/302.000000-NA-63775,CT,05-02-2017,ISOVUE,CHEST,2.5,IV,,,Lung Non-Small,1,0
+case_0279,./Mediastinal-Lymph-Node-SEG/case_0279/12-03-2007-NA-NA-22698/6.000000-NA-43797,CT,12-03-2007,VOLUMEN & 80CC/2.5 ISO 37,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0271,./Mediastinal-Lymph-Node-SEG/case_0271/01-07-2008-NA-NA-79480/6.000000-NA-50698,CT,01-07-2008,ISOVUE,CHEST,2,,,,Hodgkin`s Lymphoma,0,0
+case_0281,./Mediastinal-Lymph-Node-SEG/case_0281/05-14-2011-NA-NA-69975/2.000000-NA-38672,CT,05-14-2011,BARIUM & ISOVUE 370,CHEST,2.5,Oral & IV,,,Ovarian,0,0
+case_0282,./Mediastinal-Lymph-Node-SEG/case_0282/05-17-2013-NA-NA-95981/24.000000-NA-45442,CT,05-17-2013,SMOOTHIE & ISO370 80cc@4,CHEST,2.5,Oral & IV,,,Renal Cell,0,0
+case_0288,./Mediastinal-Lymph-Node-SEG/case_0288/08-18-2017-NA-NA-53322/100.000000-NA-36239,CT,08-18-2017,VOLUMEN & ISOVUE 370,CHEST,2.5,Oral & IV,,,Follicular Lymphoma,0,0
+case_0296,./Mediastinal-Lymph-Node-SEG/case_0296/04-21-2009-NA-NA-75539/2.000000-NA-47360,CT,04-21-2009,SMOOTHIE & ISO370 90cc@2.5,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0333,./Mediastinal-Lymph-Node-SEG/case_0333/11-10-2009-NA-NA-43774/2.000000-NA-36918,CT,11-10-2009,SMOOTHIE & ISO370 90CC@3.5,CHEST,2.5,Oral & IV,,,Melanoma,0,0
+case_0338,./Mediastinal-Lymph-Node-SEG/case_0338/05-18-2009-NA-NA-62079/9.000000-NA-18035,CT,05-18-2009,ISOVUE,CHEST,2,,,,Diffuse Large B-cell Lymphoma,0,0
+case_0392,./Mediastinal-Lymph-Node-SEG/case_0392/10-19-2016-NA-NA-48739/2.000000-NA-39400,CT,10-19-2016,READICAT & ISOVUE 370,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0395,./Mediastinal-Lymph-Node-SEG/case_0395/05-28-2018-NA-NA-93631/308.000000-NA-17501,CT,05-28-2018,ISOVUE,CHEST,2.5,Oral & IV,,,Rectal,0,0
+case_0400,./Mediastinal-Lymph-Node-SEG/case_0400/04-23-2019-NA-NA-13778/302.000000-NA-06413,CT,04-23-2019,ISOVUE,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0401,./Mediastinal-Lymph-Node-SEG/case_0401/12-27-2009-NA-NA-47413/2.000000-NA-01175,CT,12-27-2009,SMOOTHIE & ISO370 120CC@2.5,CHEST,2.5,Oral & IV,,,Colorectal,0,0
+case_0412,./Mediastinal-Lymph-Node-SEG/case_0412/03-26-2015-NA-NA-62954/4.000000-NA-07299,CT,03-26-2015,ISOVUE 370,CHEST,1.25,IV,,,Breast,0,0
+case_0431,./Mediastinal-Lymph-Node-SEG/case_0431/01-29-2014-NA-NA-90850/2.000000-NA-45948,CT,01-29-2014,SMOOTHIE & ISO 370 90CC@2,CHEST,2.5,Oral & IV,,,Ewing`s Sarcoma,0,0
+case_0445,./Mediastinal-Lymph-Node-SEG/case_0445/11-08-2014-NA-NA-49751/501.000000-NA-54590,CT,11-08-2014,Iopamidol (Isovue 370),CHEST,2.5,IV,,,Melanoma,0,0
+case_0446,./Mediastinal-Lymph-Node-SEG/case_0446/08-13-2008-NA-NA-98280/2.000000-NA-40556,CT,08-13-2008,READICAT & 90ML ISO,CHEST,2.5,Oral & IV,,,Chronic Lymphocytic Leukemia (CLL),0,0
+case_0468,./Mediastinal-Lymph-Node-SEG/case_0468/09-04-2013-NA-NA-53537/2.000000-NA-28395,CT,09-04-2013,READICAT & 80ML ISO,CHEST,2.5,Oral & IV,,,Lung Small,1,0
+case_0469,./Mediastinal-Lymph-Node-SEG/case_0469/08-11-2008-NA-NA-40062/301.000000-NA-64273,CT,08-11-2008,ISOVUE,CHEST,2.5,IV,,,Leiomyosarcoma,0,0
+case_0480,./Mediastinal-Lymph-Node-SEG/case_0480/10-18-2009-NA-NA-66698/3.000000-NA-04000,CT,10-18-2009,60mL OMNI 350,CHEST,2.5,IV,,,Malignant Peripheral Nerve Sheath Tumor,0,0
+case_0504,./Mediastinal-Lymph-Node-SEG/case_0504/02-01-2012-NA-NA-38082/6.000000-NA-18158,CT,02-01-2012,VOLUMEN & ISOVUE 370,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0512,./Mediastinal-Lymph-Node-SEG/case_0512/12-12-2008-NA-NA-71445/2.000000-NA-61914,CT,12-12-2008,READICAT & 80CC/2.5CC/ISO,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0513,./Mediastinal-Lymph-Node-SEG/case_0513/01-27-2012-NA-NA-43921/2.000000-NA-26848,CT,01-27-2012,BARIUM & ISOVUE 370,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0519,./Mediastinal-Lymph-Node-SEG/case_0519/07-25-2011-NA-NA-62460/5.000000-NA-68214,CT,07-25-2011,BARIUM & ISOVUE 370,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0571,./Mediastinal-Lymph-Node-SEG/case_0571/06-10-2015-NA-NA-19074/2.000000-NA-58257,CT,06-10-2015,READICAT & 90cc/2.5cc/iso,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0566,./Mediastinal-Lymph-Node-SEG/case_0566/07-05-2017-NA-NA-33853/8.000000-NA-10734,CT,07-05-2017,ISOVUE,CHEST,2,,,,Follicular Lymphoma,0,0
+case_0604,./Mediastinal-Lymph-Node-SEG/case_0604/12-04-2013-NA-NA-94775/201.000000-NA-38169,CT,12-04-2013,Iopamidol (Isovue 370),CHEST,2.5,IV,,,Lung Small,1,0
+case_0611,./Mediastinal-Lymph-Node-SEG/case_0611/02-05-2013-NA-NA-20960/302.000000-NA-93606,CT,02-05-2013,ISOVUE,CHEST,2.5,Oral & IV,,,Colon,0,0
+case_0618,./Mediastinal-Lymph-Node-SEG/case_0618/09-16-2006-NA-NA-42221/6.000000-NA-23615,CT,09-16-2006,VOLUMEN & 80CC/2.0 ISO 37,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0626,./Mediastinal-Lymph-Node-SEG/case_0626/08-17-2009-NA-NA-33196/2.000000-NA-81103,CT,08-17-2009,READICAT & 120ML ISO,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0622,./Mediastinal-Lymph-Node-SEG/case_0622/03-07-2019-NA-NA-77252/2.000000-NA-49006,CT,03-07-2019,GASTROVIEW & OMNI350/90ML,CHEST,2.5,Oral & IV,,,Lung Small,1,0
+case_0628,./Mediastinal-Lymph-Node-SEG/case_0628/10-12-2016-NA-NA-80852/4.000000-NA-89530,CT,10-12-2016,READICAT & ISOVUE,CHEST,2.5,Oral & IV,,,Breast,0,0
+case_0638,./Mediastinal-Lymph-Node-SEG/case_0638/12-07-2015-NA-NA-72346/2.000000-NA-13427,CT,12-07-2015,BARIUM & ISOVUE 370,CHEST,2.5,Oral & IV,,,Ovarian,0,0
+case_0646,./Mediastinal-Lymph-Node-SEG/case_0646/03-31-2009-NA-NA-63499/2.000000-NA-39532,CT,03-31-2009,GASTROGRAFIN & OMNI 350,CHEST,2.5,Oral & IV,,,Chronic Lymphocytic Leukemia (CLL),0,0
+case_0655,./Mediastinal-Lymph-Node-SEG/case_0655/06-22-2010-NA-NA-91642/6.000000-NA-75882,CT,06-22-2010,VOLUMEN & ISOVUE 370,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0662,./Mediastinal-Lymph-Node-SEG/case_0662/01-14-2019-NA-NA-84231/8.000000-NA-06717,CT,01-14-2019,ISOVUE,CHEST,2,,,,Cholangiocarcinoma,0,0
+case_0683,./Mediastinal-Lymph-Node-SEG/case_0683/03-20-2015-NA-NA-15584/201.000000-NA-89383,CT,03-20-2015,Iodine,CHEST,2.5,IV,,,Lung Small,1,0
+case_0688,./Mediastinal-Lymph-Node-SEG/case_0688/08-07-2017-NA-NA-58249/2.000000-NA-98813,CT,08-07-2017,ISOVUE 370,CHEST,2.5,IV,,,Esophageal Adenocarcinoma,0,0
+case_0704,./Mediastinal-Lymph-Node-SEG/case_0704/04-23-2016-NA-NA-09210/501.000000-NA-64151,CT,04-23-2016,Iopamidol (Isovue 370),CHEST,2.5,IV,,,Melanoma,0,0
+case_0707,./Mediastinal-Lymph-Node-SEG/case_0707/02-02-2017-NA-NA-10462/4.000000-NA-91484,CT,02-02-2017,ISOVUE 370,CHEST,2.5,IV,,,Lung Non-Small,1,0
+case_0715,./Mediastinal-Lymph-Node-SEG/case_0715/01-06-2010-NA-NA-41851/201.000000-NA-02429,CT,01-06-2010,Iopamidol (Isovue 370),CHEST,2.5,IV,,,Lung Small,1,0
+case_0717,./Mediastinal-Lymph-Node-SEG/case_0717/07-23-2015-NA-NA-86852/2.000000-NA-55376,CT,07-23-2015,SMOOTHIE & ISOVUE370,CHEST,2.5,Oral & IV,,,Breast,0,0
+case_0731,./Mediastinal-Lymph-Node-SEG/case_0731/07-01-2014-NA-NA-27340/302.000000-NA-62252,CT,07-01-2014,ISOVUE,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0740,./Mediastinal-Lymph-Node-SEG/case_0740/10-13-2010-NA-NA-24940/4.000000-NA-00819,CT,10-13-2010,READICAT & ISOVUE,CHEST,2.5,Oral & IV,,,Colon,0,0
+case_0754,./Mediastinal-Lymph-Node-SEG/case_0754/11-02-2015-NA-NA-71286/2.000000-NA-76233,CT,11-02-2015,GASTRO & ISO370 120cc@2.5,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0761,./Mediastinal-Lymph-Node-SEG/case_0761/07-01-2006-NA-NA-16550/6.000000-NA-57877,CT,07-01-2006,ISOVUE,CHEST,2,,,,Hodgkin`s Lymphoma,0,0
+case_0766,./Mediastinal-Lymph-Node-SEG/case_0766/10-23-2010-NA-NA-44779/302.000000-NA-37916,CT,10-23-2010,ISOVUE,CHEST,2.5,Oral & IV,,,Breast,0,0
+case_0768,./Mediastinal-Lymph-Node-SEG/case_0768/04-13-2010-NA-NA-26815/302.000000-NA-50981,CT,04-13-2010,ISOVUE,CHEST,2.5,Oral & IV,,,Follicular Lymphoma,0,0
+case_0769,./Mediastinal-Lymph-Node-SEG/case_0769/06-19-2010-NA-NA-81030/3.000000-NA-44836,CT,06-19-2010,ISO 80CC,CHEST,2.5,IV,,,Esophageal,0,0
+case_0772,./Mediastinal-Lymph-Node-SEG/case_0772/09-07-2005-NA-NA-39088/6.000000-NA-75218,CT,09-07-2005,GASTROVIEW & OMNIPAQUE350/100,CHEST,2.5,Oral & IV,,,Thyroid,0,0
+case_0775,./Mediastinal-Lymph-Node-SEG/case_0775/02-18-2017-NA-NA-66851/6.000000-NA-21303,CT,02-18-2017,REDICAT & ISOVUE 370,CHEST,2.5,Oral & IV,,,Lung Small,1,0
+case_0786,./Mediastinal-Lymph-Node-SEG/case_0786/09-01-2015-NA-NA-55238/2.000000-NA-32610,CT,09-01-2015,BARIUM & ISOVUE 370,CHEST,2.5,Oral & IV,,,Lung Small,1,0
+case_0788,./Mediastinal-Lymph-Node-SEG/case_0788/03-01-2009-NA-NA-62399/2.000000-NA-49790,CT,03-01-2009,SMOOTHIE & ISO370 120CC@4,CHEST,2.5,Oral & IV,,,Thyroid,0,0
+case_0793,./Mediastinal-Lymph-Node-SEG/case_0793/03-18-2005-NA-NA-69839/6.000000-NA-50072,CT,03-18-2005,WATER & 120CC/2.2 ISO 37,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0804,./Mediastinal-Lymph-Node-SEG/case_0804/10-20-2012-NA-NA-51425/10.000000-NA-56188,CT,10-20-2012,VOLUMEN & 80CC/2.5 ISO 37,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0820,./Mediastinal-Lymph-Node-SEG/case_0820/08-23-2007-NA-NA-02119/35.000000-NA-37919,CT,08-23-2007,SMOOTHIE & ISO370 120cc@4,CHEST,2.5,Oral & IV,,,Thyroid,0,0
+case_0818,./Mediastinal-Lymph-Node-SEG/case_0818/12-10-2014-NA-NA-98304/4.000000-NA-89755,CT,12-10-2014,ISOVUE 370,CHEST,2.5,IV,,,Head and Neck,0,0
+case_0838,./Mediastinal-Lymph-Node-SEG/case_0838/10-01-2011-NA-NA-48199/8.000000-NA-70503,CT,10-01-2011,ISOVUE,CHEST,2,,,,Diffuse Large B-cell Lymphoma,0,0
+case_0863,./Mediastinal-Lymph-Node-SEG/case_0863/09-16-2018-NA-NA-83818/3.000000-NA-50918,CT,09-16-2018,ISOVUE,CHEST,2.5,IV,,,Colon,0,0
+case_0864,./Mediastinal-Lymph-Node-SEG/case_0864/04-22-2010-NA-NA-90146/201.000000-NA-73616,CT,04-22-2010,Iopamidol (Isovue 370),CHEST,2.5,IV,,,Chronic Lymphocytic Leukemia (CLL),0,0
+case_0869,./Mediastinal-Lymph-Node-SEG/case_0869/06-22-2016-NA-NA-19108/2.000000-NA-12602,CT,06-22-2016,SMOOTHIE & ISO370 90CC@4.0,CHEST,2.5,Oral & IV,,,Melanoma,0,0
+case_0890,./Mediastinal-Lymph-Node-SEG/case_0890/10-30-2011-NA-NA-62856/307.000000-NA-00765,CT,10-30-2011,BARIUM & isovue,CHEST,2.5,Oral & IV,,,Esophageal,0,0
+case_0902,./Mediastinal-Lymph-Node-SEG/case_0902/04-30-2015-NA-NA-82050/4.000000-NA-61573,CT,04-30-2015,READICAT & ISOVUE,CHEST,2.5,Oral & IV,,,Breast,0,0
+case_0903,./Mediastinal-Lymph-Node-SEG/case_0903/11-07-2008-NA-NA-84576/2.000000-NA-31384,CT,11-07-2008,SMOOTHIE & ISO370 90CC@2.5,CHEST,2.5,Oral & IV,,,Gastric,0,0
+case_0911,./Mediastinal-Lymph-Node-SEG/case_0911/02-24-2017-NA-NA-28718/307.000000-NA-89110,CT,02-24-2017,ISOVUE,CHEST,2.5,IV,,,Rectal,0,0
+case_0934,./Mediastinal-Lymph-Node-SEG/case_0934/02-23-2007-NA-NA-38119/6.000000-NA-82992,CT,02-23-2007,VOLUMEN & 96CC/2.5 ISO 37,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_0944,./Mediastinal-Lymph-Node-SEG/case_0944/05-13-2013-NA-NA-21032/301.000000-NA-51600,CT,05-13-2013,BARIUM & ISOVUE,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0958,./Mediastinal-Lymph-Node-SEG/case_0958/04-15-2012-NA-NA-37407/4.000000-NA-85951,CT,04-15-2012,75ML ISOUVE 370,CHEST,2.5,IV,,,Hodgkin`s Lymphoma,0,0
+case_0966,./Mediastinal-Lymph-Node-SEG/case_0966/01-14-2019-NA-NA-53354/302.000000-NA-33960,CT,01-14-2019,ISOVUE,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_0995,./Mediastinal-Lymph-Node-SEG/case_0995/08-13-2007-NA-NA-61734/6.000000-NA-46004,CT,08-13-2007,VOLUMEN & 80CC/2.2 ISO 37,CHEST,2.5,Oral & IV,,,Hodgkin`s Lymphoma,0,0
+case_1034,./Mediastinal-Lymph-Node-SEG/case_1034/12-25-2014-NA-NA-23008/502.000000-NA-83969,CT,12-25-2014,Iopamidol (Isovue 370),CHEST,2.5,IV,,,Renal Cell,0,0
+case_1051,./Mediastinal-Lymph-Node-SEG/case_1051/08-31-2011-NA-NA-17124/7.000000-NA-02274,CT,08-31-2011,VOLUMEN & ISOVUE 370,CHEST,2.5,Oral & IV,,,Lung Non-Small,1,0
+case_1084,./Mediastinal-Lymph-Node-SEG/case_1084/08-27-2008-NA-NA-90523/2.000000-NA-44638,CT,08-27-2008,READICAT & 120ML ISO,CHEST,2.5,Oral & IV,,,Lung Small,1,0
+case_1091,./Mediastinal-Lymph-Node-SEG/case_1091/11-09-2008-NA-NA-34281/2.000000-NA-67104,CT,11-09-2008,SMOOTHIE & ISO370 90cc@2.5,CHEST,2.5,Oral & IV,,,GE Junction Adenocarcinoma,0,0
+case_1093,./Mediastinal-Lymph-Node-SEG/case_1093/06-18-2012-NA-NA-03094/4.000000-NA-21687,CT,06-18-2012,REDICAT & ISOVUE 370,CHEST,2.5,Oral & IV,,,Colorectal,0,0
+case_1092,./Mediastinal-Lymph-Node-SEG/case_1092/12-17-2010-NA-NA-60700/201.000000-NA-01792,CT,12-17-2010,Iopamidol (Isovue 370),CHEST,2.5,IV,,,Lung Small,1,0
+case_1100,./Mediastinal-Lymph-Node-SEG/case_1100/03-18-2011-NA-NA-48210/5.000000-NA-00620,CT,03-18-2011,50ml,CHEST,2.5,IV,,,Hodgkin`s Lymphoma,0,0
